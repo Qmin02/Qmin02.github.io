@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Blog"
+date:   2024-12-17 22:20:57 +0800
+categories: blog
+---
+
+Today is 2024-12-17
+
+Pushed by power of blog, this blog is made.
+Hope I can continue to write my imagination and minds on my blog!
+
+That's all. Lucky for you!
