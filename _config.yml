@@ -21,11 +21,10 @@
 title: My world
 email: iqer0526@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I think I will live well in my blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: None
-github_username:  Qmin02
+github_username:  qmin02
 
 # Build settings
 theme: minima
